@@ -1,13 +1,11 @@
 /********************************************************************
 *
 * file: mmEM.cpp
-*
 * Copyright (c) 2007, Sittichai Jiampojamarn
 * All rights reserved.
 * 
 * See the file COPYING in the top directory of this distribution
 * for more information.
-*
 * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
